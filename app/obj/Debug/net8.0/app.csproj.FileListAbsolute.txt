@@ -1,0 +1,15 @@
+/workspaces/chatbot/app/bin/Debug/net8.0/app
+/workspaces/chatbot/app/bin/Debug/net8.0/app.deps.json
+/workspaces/chatbot/app/bin/Debug/net8.0/app.runtimeconfig.json
+/workspaces/chatbot/app/bin/Debug/net8.0/app.dll
+/workspaces/chatbot/app/bin/Debug/net8.0/app.pdb
+/workspaces/chatbot/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/chatbot/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/workspaces/chatbot/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/workspaces/chatbot/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/workspaces/chatbot/app/obj/Debug/net8.0/app.sourcelink.json
+/workspaces/chatbot/app/obj/Debug/net8.0/app.dll
+/workspaces/chatbot/app/obj/Debug/net8.0/refint/app.dll
+/workspaces/chatbot/app/obj/Debug/net8.0/app.pdb
+/workspaces/chatbot/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/workspaces/chatbot/app/obj/Debug/net8.0/ref/app.dll
